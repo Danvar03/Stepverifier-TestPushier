@@ -1,4 +1,4 @@
-package com.sofka.StepVerifier.Services;
+package com.sofka.StepVerifier.services;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

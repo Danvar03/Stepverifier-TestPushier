@@ -1,6 +1,6 @@
 package com.sofka.StepVerifier;
 
-import com.sofka.StepVerifier.Services.Servicio;
+import com.sofka.StepVerifier.services.Servicio;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

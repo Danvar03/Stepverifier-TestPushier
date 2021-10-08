@@ -1,4 +1,4 @@
-package com.sofka.StepVerifier.Services;
+package com.sofka.StepVerifier.services;
 
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
